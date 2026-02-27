@@ -220,4 +220,8 @@ Especialista en desarrollo de herramientas de soporte técnico, automatización 
 
 📜 Licencia
 
-Uso educativo y profesional bajo responsabilidad del usuario.
+Uso educativo y profesional bajo responsabilidad del usuario. 
+
+Login de Programa 
+<img width="1341" height="704" alt="kIHTbXihVN" src="https://github.com/user-attachments/assets/af070807-84ba-49ee-9997-60b4b2c2bf64" />
+
